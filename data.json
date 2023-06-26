@@ -1,0 +1,16 @@
+{
+    "armarios": [
+        {
+            "id": 1,
+            "status": "ocupado"
+        },
+        {
+            "id": 2,
+            "status": "livre"
+        },
+        {
+            "id": 3,
+            "status": "manutencao"
+        }
+    ]
+}
